@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <h1 className="text-xl">Home Page</h1>
-      <Button>Click me</Button>
+      <Button className="p-2">ClickMe!!!</Button>
     </div>
   );
 }
